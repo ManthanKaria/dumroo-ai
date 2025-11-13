@@ -1,0 +1,5 @@
+dumroo_venv/
+.env
+.streamlit/
+__pycache__/
+*.pyc
