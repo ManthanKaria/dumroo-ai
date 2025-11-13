@@ -1,4 +1,4 @@
-# 🤖 Dumroo AI Developer Assignment
+# 🤖 Dumroo AI Developer
 
 This project demonstrates an **AI-powered Admin Dashboard** where school administrators can ask **natural language questions** about student performance, homework submissions, and quizzes — powered by **LangChain + OpenAI** and a **Streamlit interface**.
 
