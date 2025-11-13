@@ -22,17 +22,17 @@ This project demonstrates an **AI-powered Admin Dashboard** where school adminis
 
 ## 🧩 Project Structure
 
+```bash
 dumroo-ai-assignment/
 ├─ data/
-│ └─ students.csv
+│  └─ students.csv
 ├─ ai_query.py
 ├─ app_streamlit.py
 ├─ utils.py
 ├─ requirements.txt
 ├─ .env
 └─ README.md
-
-
+```
 ---
 
 ## ⚙️ Setup Instructions
