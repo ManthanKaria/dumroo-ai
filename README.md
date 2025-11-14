@@ -40,7 +40,7 @@ dumroo-ai-assignment/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<manthankaria>/dumroo-ai-assignment.git
+git clone https://github.com/ManthanKaria/dumroo-ai.git
 cd dumroo-ai-assignment
 ```
 
